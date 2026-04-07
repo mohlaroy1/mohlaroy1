@@ -1,13 +1,67 @@
-<h1 align="center">Hi 👋, I'm Mohlaroy</h1>
-<h3 align="center">A passionate backend developer from Uzbekistan</h3>
+<h1 align="center">✨ Hi, I'm Mohlaroy ✨</h1>
+<h3 align="center">💻 Future Software Engineer | Backend Developer 🚀</h3>
 
-- 📫 How to reach me **mganijonova861@gmail.com**
-
-<h3 align="left">Connect with me: - Telegram: https://t.me/@Moonsmoon_8 </h3>
-<p align="left">
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=F75C7E&center=true&vCenter=true&lines=Python+Developer;Django+Lover;Database+Explorer;Future+Full-Stack+Engineer" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
+## 🌸 About Me
+- 👩‍💻 Passionate about **building real-world applications**
+- 🌱 Currently mastering **Django & Backend Systems**
+- 🧠 Exploring **Databases & Optimization**
+- 🎯 Dream: Become a **top-tier Software Engineer**
+- ⚡ Calm… but dangerous with code 😌
+
+---
+
+## 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,django,html,mysql,postgresql" />
+</p>
+
+---
+
+---
+
+## 🔥 Streak Stats
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mohlaroy1&theme=radical" />
+</p>
+
+---
+
+## 🧩 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohlaroy1&theme=react-dark" />
+</p>
+
+---
+
+## 💌 Let's Connect
+<p align="center">
+  <a href="mailto:mganijonova861@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohlaroy-g-anijonova">
+    <img src="https://img.shields.io/badge/LinkedIn-Mohlaroy%20G'anijonova-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/mohlaroy1/mohlaroy1/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🌟 Quote I Live By
+> *"Practice makes perfect."*
+
+---
+
+<p align="center">💖 Made with ambition by Mohlaroy</p>
 
