@@ -12,7 +12,7 @@
 - 🌱 Currently mastering **Django & Backend Systems**
 - 🧠 Exploring **Databases & Optimization**
 - 🎯 Dream: Become a **top-tier Software Engineer**
-- ⚡ Calm… but dangerous with code 😌
+
 
 ---
 
