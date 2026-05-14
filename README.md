@@ -7,12 +7,6 @@
 
 ---
 
-## 🌸 About Me
-- 👩‍💻 Passionate about **building real-world applications**
-- 🌱 Currently mastering **Django & Backend Systems**
-- 🧠 Exploring **Databases & Optimization**
-- 🎯 Dream: Become a **top-tier Software Engineer**
-
 
 ---
 
