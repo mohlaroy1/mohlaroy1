@@ -19,20 +19,6 @@
 
 ---
 
-## 🔥 Streak Statistics
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mohlaroy1&theme=radical" />
-</p>
-
----
-
-## 🧩 Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohlaroy1&theme=react-dark" />
-</p>
-
----
-
 ## 💌 Let's Connect
 <p align="center">
   <a href="mailto:mganijonova861@gmail.com">
