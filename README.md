@@ -19,7 +19,7 @@
 
 ---
 
-## 🔥 Streak Stats
+## 🔥 Streak Statistics
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mohlaroy1&theme=radical" />
 </p>
